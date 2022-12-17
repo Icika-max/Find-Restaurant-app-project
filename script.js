@@ -22,11 +22,14 @@ document.addEventListener("DOMContentLoaded", () => {
             <h2>${restaurant.name}</h2>
             </div>
             <img src=${restaurant.image} alt="#"/>
-            
+
             <div class="card-restaurant-details">
             <div class="country">
                 <p><span><<i class="fa fa-flag" aria-hidden="true"></i></span>county: ${restaurant.county}</p>
 
+            </div>
+            <div class="phone">
+            <p><span><i class="fa-duotone fa-phone"></i></span>phone: ${restaurant.phone}</p>
             </div>
 
     })
