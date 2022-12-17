@@ -1,0 +1,212 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "The River Cafe",
+      "county": "Narobi",
+      "image": "https://t3.ftcdn.net/jpg/02/79/75/74/240_F_279757407_LJTTkYBnulnFPkoKJLQjf5L7Xrl6mOZy.jpg",
+      "type":"North America, Quebec",
+      "rating": "4",
+      "city":"Mexico city",
+      "neighbourhood": "Mile-ex",
+      "address": "P.O. Box 9415 GPO Nairobi 00100",
+      "phone": "+254725969891",
+      "website": "https://www.therivercafekenya.com/"
+
+
+
+    },
+    {
+      "id": 2,
+      "name": "Zengarden",
+      "county": "Mombasa",
+      "image": "https://t3.ftcdn.net/jpg/05/49/22/26/240_F_549222634_pvbXfh6NrDoMoR0tdI1UpRxTF2EVCTF3.jpg",
+      "type":"mexican, fin dining",
+      "rating": "4",
+      "city":"Mexico city",
+      "neighbourhood": "Roma",
+      "address": "calle tanala NO.133, Roma North 06700 Mexico",
+      "phone": "+25479302046",
+      "website": "https://www.zengarden.co.ke/"
+
+
+    },
+    {
+      "id": 3,
+      "name": "Habesha Restaurant",
+      "county": "Narobi",
+      "image": "https://t3.ftcdn.net/jpg/02/34/22/20/240_F_234222036_yBfsLGoAjbPES0VfjUKVWiB9cKpkwPBk.jpg",
+      "type":"tapas,casual,comfort",
+      "rating": "5",
+      "city":"Barcelona",
+      "neighbourhood": "",
+      "address": "P.o.Box 52214-00200, Nairobi, Kenya",
+      "phone": "+254 (0) 733 730 469",
+      "website": "https://habesharestaurant.co.ke/"
+
+
+
+    },
+   {
+    "id": 4,
+      "name": "Mawimbi Seafood Restaurant & Cafè",
+      "county": "embu",
+      "image": "https://t4.ftcdn.net/jpg/03/20/41/03/240_F_320410393_ysl4YA3j1MeO27cX4kogf0gInTa5rlhg.jpg",
+      "type":"tapas,casual,comfort",
+      "rating": "5",
+      "city":"Barcelona",
+      "neighbourhood": "",
+      "address": "Kijabe street, opposite Narfork",
+      "phone": "+254701895244",
+      "website": "https://www.mawimbirestaurant.com/"
+   },
+    {
+      "id": 5,
+      "name": "Marcado",
+      "county": "Nakuru",
+      "image": "https://t4.ftcdn.net/jpg/03/66/34/13/240_F_366341397_klG0TiCkN40LuNjaUBDAlvhdiMZTbFCB.jpg",
+      "type":"sea",
+      "rating": "4",
+      "city":"MOMBASA",
+      "neighbourhood": "malindi",
+      "address": "456-1093",
+      "phone": "+254701895244",
+      "website": "https://www.thefoodlibrary.co.ke/mercado/"
+
+    },
+    {
+      "id": 6,
+      "name": "Brew Bistro and Lounge",
+      "county": "Narobi",
+      "image": "https://t3.ftcdn.net/jpg/02/50/50/38/240_F_250503894_HNR2q0yK0eiBWWU6QkDvhzHBYq3sfZtn.jpghttps://t3.ftcdn.net/jpg/02/50/50/38/240_F_250503894_HNR2q0yK0eiBWWU6QkDvhzHBYq3sfZtn.jpg",
+      "type":"sea",
+      "rating": "4",
+      "city":"MOMBASA",
+      "neighbourhood": "malindi",
+      "address": "456-1093 Nairobi",
+      "phone": "+254701895244",
+      "website": "P.O. Box 39954-00623 - Nairobi"
+
+    },
+    {
+     "id": 7,
+       "name": "The Well Irish Pub & Restaurant",
+       "county": "Elderet",
+       "image": "https://t4.ftcdn.net/jpg/05/48/21/19/240_F_548211965_jCBY8HqNotmgwzd7Lr0GjX6E4Dc6ylWb.jpg",
+       "type":"tapas,casual,comfort",
+       "rating": "5",
+       "city":"Elderet",
+       "neighbourhood": "",
+       "address": "PO Box 207, Eldoret, 30100, Kenya",
+       "phone": "+254701895244",
+       "website": "http://www.thewell.co.ke/"
+    },
+    {
+     "id": 8,
+       "name": "Java House - West End Mall,",
+       "county": "Kisumu",
+       "image": "https://t4.ftcdn.net/jpg/00/47/68/79/240_F_47687939_4YIt4K1PRe9RLf4siAAC92TARUNJiald.jpg",
+       "type":"tapas,casual,comfort",
+       "rating": "5",
+       "city":"Barcelona",
+       "neighbourhood": "",
+       "address": "PO Box 607, kisumu, 30100, Kenya",
+       "phone": "+254701895244",
+       "website": "https://www.javahouseafrica.com/"
+    },
+    {
+     "id": 9,
+       "name": "Lamu Palace Hotel",
+       "county": "Lamu",
+       "image": "https://t3.ftcdn.net/jpg/00/75/08/98/240_F_75089860_VuEXmFVXwdssY3LsGJNKo68SQrcDsoYE.jpg",
+       "type":"tapas,casual,comfort",
+       "rating": "5",
+       "city":"Barcelona",
+       "neighbourhood": "",
+       "address": "PO Box 307, Lamu, 30100, Kenya",
+       "phone": "+254701895244",
+       "website": "https://romantichotelskenya.com/"
+    },
+    {
+     "id": 10,
+       "name": "La flauta",
+       "county": "Nakuru",
+       "image": "https://t4.ftcdn.net/jpg/03/31/63/01/240_F_331630101_CPSatxgxCvUaBvfZxdbjAvG0mToDJsFM.jpg",
+       "type":"tapas,casual,comfort",
+       "rating": "5",
+       "city":"Barcelona",
+       "neighbourhood": "",
+       "address": "calle d arabau,23, 0811,Barcelona,spain",
+       "phone": "+254701895244",
+       "website": "Laflauta.com"
+    },
+    {
+     "id": 11,
+       "name": "La flauta",
+       "county": "Nakuru",
+       "image": "https://t4.ftcdn.net/jpg/05/47/05/99/240_F_547059937_fHTnv6AZfjS5n2eiWCqWFaRNv02R4mbi.jpg",
+       "type":"tapas,casual,comfort",
+       "rating": "5",
+       "city":"Nakuru",
+       "neighbourhood": "",
+       "address": " 20100 Kenyatta Ave, Nakuru",
+       "phone": "+254701895244",
+       "website": "https://www.javahouseafrica.com/"
+    },
+    {
+     "id": 12,
+       "name": "La flauta",
+       "county": "Garissa",
+       "image": "https://t4.ftcdn.net/jpg/00/28/91/07/240_F_28910747_BlM4Rr1ZhnB1mXFrvxvU6Wv4emPbwSEy.jpg",
+       "type":"tapas,casual,comfort",
+       "rating": "5",
+       "city":"Barcelona",
+       "neighbourhood": "",
+       "address": "calle d arabau,23, 0811,Barcelona,spain",
+       "phone": "+254701895244",
+       "website": "Laflauta.com"
+    },
+    {
+     "id": 13,
+       "name": "La flauta",
+       "county": "Machakos",
+       "image": "https://t3.ftcdn.net/jpg/00/55/74/86/240_F_55748636_GNWdnTO4ZnR8ReqfNfdU7Gz7k5y9S0nY.jpg",
+       "type":"tapas,casual,comfort",
+       "rating": "5",
+       "city":"Barcelona",
+       "neighbourhood": "",
+       "address": "calle d arabau,23, 0811,Barcelona,spain",
+       "phone": "+254701895244",
+       "website": "Laflauta.com"
+    },
+    {
+     "id": 14,
+       "name": "La flauta",
+       "county": "Naivasha",
+       "image": "https://t3.ftcdn.net/jpg/02/68/22/20/240_F_268222004_kdPmrr5Mg4yrh3kq4Rhway1zNMHUX6d7.jpg",
+       "type":"tapas,casual,comfort",
+       "rating": "5",
+       "city":"Barcelona",
+       "neighbourhood": "",
+       "address": "calle d arabau,23, 0811,Barcelona,spain",
+       "phone": "+254701895244",
+       "website": "Laflauta.com"
+    },
+    {
+     "id": 15,
+       "name": "La flauta",
+       "county": "Meru",
+       "image": "https://t3.ftcdn.net/jpg/02/10/97/64/240_F_210976498_KCetrPWe0Q0Q74DrM7SPuwCtOz8lE7cO.jpg",
+       "type":"tapas,casual,comfort",
+       "rating": "5",
+       "city":"Barcelona",
+       "neighbourhood": "",
+       "address": "calle d arabau,23, 0811,Barcelona,spain",
+       "phone": "+254701895244",
+       "website": "Laflauta.com"
+    }
+
+  ]
+ }
+
+
