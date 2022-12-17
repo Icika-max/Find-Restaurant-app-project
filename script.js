@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
             </div>
 
             <div class="address">
-            
+            <p><span><i class="fa-duotone fa-house"></i></span>address: ${restaurant.address}</p>
             </div>
 
     })
