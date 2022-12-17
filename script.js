@@ -15,6 +15,12 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(res=>res.json())
     .then((data)=>{
         console.log(data);
+
+        container.innerHTML =data.map((restaurant)=>(
+            `<div class="card-restaurant">
+            <div class="card-restaurant-details"
+            <h2>${restaurant.name}</h2>
+            </div>
     })
 
     fetchData()
