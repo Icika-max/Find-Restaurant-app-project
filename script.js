@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
             </div>
 
             <div class="website">
-            
+            <a href= ${restaurant.website}>visit website</a>
             </div>
 
     })
