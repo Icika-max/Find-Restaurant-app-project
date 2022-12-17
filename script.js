@@ -21,8 +21,11 @@ document.addEventListener("DOMContentLoaded", () => {
             <div class="card-restaurant-details"
             <h2>${restaurant.name}</h2>
             </div>
+            <img src=${restaurant.image} alt="#"/>
+
     })
 
-    fetchData()
+
 }
+fetchData()
 })
