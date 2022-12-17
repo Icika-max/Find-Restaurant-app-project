@@ -40,6 +40,10 @@ document.addEventListener("DOMContentLoaded", () => {
             <p><span><i class="fa-duotone fa-house"></i></span>address: ${restaurant.address}</p>
             </div>
 
+            <div class="website">
+            
+            </div>
+
     })
 
 
