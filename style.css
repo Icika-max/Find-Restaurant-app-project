@@ -75,3 +75,6 @@ input{
     font-size: 17px;
     margin: 20px 0;
   }
+.hide{
+    display: none;
+}
