@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", () => {
             <p><span><i class="fa-duotone fa-phone"></i></span>phone: ${restaurant.phone}</p>
             </div>
             <div class="rating">
-
+            <p><span><i class="fa-solid fa-star"></i></span>phone: ${restaurant.rating}</p>
             </div>
 
 
