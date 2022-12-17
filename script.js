@@ -46,9 +46,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
             </div`
 
-    })
+            ))
+        })
+        .catch((err)=>console.log(err));
+    }
+    fetchData()
 
-
-}
-fetchData()
 })
