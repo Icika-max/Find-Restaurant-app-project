@@ -1,20 +1,27 @@
-document.addEventListener("DOMContentLoaded", () => {
-    const container = document.querySelector(".container")
-    const searchInput=document.querySelector("[data-search]")
-    searchInput.addEventListener("input",e =>{
-    const value = e.target.value
-    restaurant.forEach(user=>{
-        const isVisible=user.name.includes(value)
-        user.classLst.toggle("hide",!isVisible)
-    })
+const container = document.querySelector(".container")
+    function login (){
+        document.getElementById("log").addEventListener("click",(l)=>{
+            document.querySelector(".login").style.display= "none"
+            document.querySelector(".container").style.display="block"
+            document.querySelector(".container").style.display="flex"
+        })
 
-    })
-
-    const fetchData=()=>
+    }
+const fetchData=()=>
 {    fetch('http://localhost:3000/characters')
     .then(res=>res.json())
     .then((data)=>{
         console.log(data);
+        const searchInput=document.querySelector("[data-search]")
+        searchInput.addEventListener("input",e =>{
+        const value = e.target.search.value
+        data.forEach(user=>{
+            const isVisible=user.name.includes(value)
+            user.classList.toggle("hide",!isVisible)
+
+        })
+
+        })
 
         container.innerHTML =data.map((restaurant)=>(
             `<div class="card-restaurant">
@@ -28,13 +35,10 @@ document.addEventListener("DOMContentLoaded", () => {
                 <p><span><<i class="fa fa-flag" aria-hidden="true"></i></span>county: ${restaurant.county}</p>
 
             </div>
+
             <div class="phone">
             <p><span><i class="fa-duotone fa-phone"></i></span>phone: ${restaurant.phone}</p>
             </div>
-            <div class="rating">
-            <p><span><i class="fa-solid fa-star"></i></span>phone: ${restaurant.rating}</p>
-            </div>
-
 
             <div class="address">
             <p><span><i class="fa-duotone fa-house"></i></span>address: ${restaurant.address}</p>
@@ -44,12 +48,28 @@ document.addEventListener("DOMContentLoaded", () => {
             <a href= ${restaurant.website}>visit website</a>
             </div>
 
-            </div`
 
-            ))
-        })
-        .catch((err)=>console.log(err));
-    }
-    fetchData()
 
-})
+
+
+            </div>
+
+
+
+
+
+            </div>`
+        ))
+    })
+    .catch((err)=>console.log(err));
+
+}
+
+
+
+    document.addEventListener("DOMContentLoaded", () => {
+
+
+        fetchData()
+        login();
+    })

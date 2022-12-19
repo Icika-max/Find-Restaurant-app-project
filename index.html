@@ -11,14 +11,39 @@
 <body>
     <main class="main">
         <h2 style="display: grid; align-content: center;">Find Restaurant App</h2>
+
+
+    <div class="login">
+        <h2>Login Page</h2><br>
+    <form id="login" method="get" action="login.php">
+        <label><b>User Name
+        </b>
+        </label>
+        <input type="text" name="Uname" id="Uname" placeholder="Username" required>
+        <br><br>
+        <label><b>Password
+        </b>
+        </label>
+        <input type="Password" name="Pass" id="Pass" placeholder="Password" required>
+        <br><br>
+        <input type="button" name="log" id="log" value="Log In Here">
+        <br><br>
+        <input type="checkbox" id="check">
+        <span>Remember me</span>
+        <br><br>
+        Forgot <a href="#">Password</a>
+    </form>
+</div>
+
+
+
+    <div class="container" style="display: none;">
         <div class="search-restraunt">
-            <label for="search">search restraunt</label>
-            <input type="search" id="search" placeholder="restraunt title" data-search>
+            <label for="search">search restraurant</label>
+            <input type="search" id="search" placeholder="restraurant name" data-search>
+
         </div>
-
-
-
-    <div class="container"></div>
+    </div>
 
     <script src="./script.js"></script>
     </main>
