@@ -13,14 +13,14 @@ Installing <Find-Restaurant-app-project>
 
 # To run this application locally:
 
-. Use this link to clone into your local environment (https://github.com/Icika-max/Find-Restaurant-app-project)
-. Run git clone git@github.com:Icika-max/Find-Restaurant-app-project.git on your terminal - This will create a copy locally.
-. To navigate into the project while still on your terminal type cd Find-Restaurant-app-project
-. If you are using Visual Studio Code, while still on your terminal type code . and press Enter key to open the project
-. Right click on index.js File
-. Click on Copy Path
-. Open your favourite browser Paste the copied path on address bar then press enter
-. If you see a login page(username,password and button) that means it was succefull. - The instructions below will guide you;
+1. Use this link to clone into your local environment (https://github.com/Icika-max/Find-Restaurant-app-project)
+2. Run git clone git@github.com:Icika-max/Find-Restaurant-app-project.git on your terminal - This will create a copy locally.
+3. To navigate into the project while still on your terminal type cd Find-Restaurant-app-project
+4. If you are using Visual Studio Code, while still on your terminal type code . and press Enter key to open the project
+5. Right click on index.js File
+6. Click on Copy Path
+7. Open your favourite browser Paste the copied path on address bar then press enter
+9. If you see a login page(username,password and button) that means it was succefull. - The instructions below will guide you;
 
 # Setup
 Run this command to get the backend started:
@@ -43,12 +43,12 @@ https://icika-max.github.io/Find-Restaurant-app-project/
 
 # Login page
 
-. Brief intro
-. After following the above instructions(To run this application locally) and was successful ;
-. For the username field input anything you wish. eg 'jimax'
-. For password input anything you wish. eg '78tr3478gqe78b78bvyvbqbb5bvqebv7'
-. Click on login
-.Incase you experience an error check your network connection and try again.
+1. Brief intro
+2. After following the above instructions(To run this application locally) and was successful ;
+3. For the username field input anything you wish. eg 'jimax'
+4. For password input anything you wish. eg '78tr3478gqe78b78bvyvbqbb5bvqebv7'
+5. Click on login
+6. Incase you experience an error check your network connection and try again.
 
 # Contributing to Find-Restaurant-app-project
 
