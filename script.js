@@ -4,6 +4,8 @@ const container = document.querySelector(".container")
             document.querySelector(".login").style.display= "none"
             document.querySelector(".container").style.display="block"
             document.querySelector(".container").style.display="flex"
+            document.querySelector(".search-restraunt").style.display="block"
+            document.querySelector(".search-restraunt").style.display="flex"
         })
 
     }
@@ -26,7 +28,7 @@ const fetchData=()=>
         container.innerHTML =data.map((restaurant)=>(
             `<div class="card-restaurant">
             <div class="card-restaurant-details"
-            
+
             <h2>${restaurant.name}</h2>
             </div>
 
@@ -41,8 +43,12 @@ const fetchData=()=>
             <p><span><i class="fa-duotone fa-phone"></i></span>phone: ${restaurant.phone}</p>
             </div>
 
+            <div class="rating">
+            <p><span><i class="fa-duotone fa-phone"></i></span>rating: ${restaurant.rating}</p>
+            </div>
+
             <div class="address">
-            <p><span><i class="fa-duotone fa-house"></i></span>address: ${restaurant.address}</p>
+            <p><span><i class="fa-solid fa-star"></i></span>address: ${restaurant.address}</p>
             </div>
 
             <div class="website">

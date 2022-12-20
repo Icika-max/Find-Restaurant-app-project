@@ -129,20 +129,20 @@
     },
     {
      "id": 10,
-       "name": "La flauta",
+       "name": "Fika-and-Feast",
        "county": "Nakuru",
        "image": "https://t4.ftcdn.net/jpg/03/31/63/01/240_F_331630101_CPSatxgxCvUaBvfZxdbjAvG0mToDJsFM.jpg",
        "type":"tapas,casual,comfort",
        "rating": "5",
-       "city":"Barcelona",
+       "city":"Nakuru",
        "neighbourhood": "",
-       "address": "calle d arabau,23, 0811,Barcelona,spain",
+       "address": "20100 Kenyatta Ave, Nakuru",
        "phone": "+254701895244",
-       "website": "Laflauta.com"
+       "website": "https://fika-and-feast.business.site/?utm_source=gmb&utm_medium=referral"
     },
     {
      "id": 11,
-       "name": "La flauta",
+       "name": "Java House",
        "county": "Nakuru",
        "image": "https://t4.ftcdn.net/jpg/05/47/05/99/240_F_547059937_fHTnv6AZfjS5n2eiWCqWFaRNv02R4mbi.jpg",
        "type":"tapas,casual,comfort",
@@ -155,55 +155,55 @@
     },
     {
      "id": 12,
-       "name": "La flauta",
-       "county": "Garissa",
+       "name": "Kabuda's Kitchen",
+       "county": "Narobi",
        "image": "https://t4.ftcdn.net/jpg/00/28/91/07/240_F_28910747_BlM4Rr1ZhnB1mXFrvxvU6Wv4emPbwSEy.jpg",
        "type":"tapas,casual,comfort",
        "rating": "5",
-       "city":"Barcelona",
+       "city":"Nairobi",
        "neighbourhood": "",
-       "address": "calle d arabau,23, 0811,Barcelona,spain",
+       "address": "PO Box 607, Nairobi, 30100, Kenya",
        "phone": "+254701895244",
-       "website": "Laflauta.com"
+       "website": "https://kabudas-kitchen.business.site/?utm_source=gmb&utm_medium=referral"
     },
     {
      "id": 13,
        "name": "La flauta",
-       "county": "Machakos",
-       "image": "https://t3.ftcdn.net/jpg/00/55/74/86/240_F_55748636_GNWdnTO4ZnR8ReqfNfdU7Gz7k5y9S0nY.jpg",
+       "county": "Mombasa",
+       "image": "https://images.unsplash.com/photo-1563911302283-d2bc129e7570?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
        "type":"tapas,casual,comfort",
-       "rating": "5",
-       "city":"Barcelona",
+       "rating": "4.0",
+       "city":"MOMBASA",
        "neighbourhood": "",
-       "address": "calle d arabau,23, 0811,Barcelona,spain",
+       "address": "PO Box 607, Machakos, 30100, Kenya",
        "phone": "+254701895244",
-       "website": "Laflauta.com"
+       "website": ""
     },
     {
      "id": 14,
-       "name": "La flauta",
+       "name": "Hubei Restaurant",
        "county": "Naivasha",
        "image": "https://t3.ftcdn.net/jpg/02/68/22/20/240_F_268222004_kdPmrr5Mg4yrh3kq4Rhway1zNMHUX6d7.jpg",
        "type":"tapas,casual,comfort",
-       "rating": "5",
-       "city":"Barcelona",
+       "rating": "4.5",
+       "city":"Naivasha",
        "neighbourhood": "",
-       "address": "calle d arabau,23, 0811,Barcelona,spain",
+       "address": "PO Box 607, Naivasha, 30100, Kenya",
        "phone": "+254701895244",
-       "website": "Laflauta.com"
+       "website": "https://www.mbuzimunch.com/"
     },
     {
      "id": 15,
-       "name": "La flauta",
+       "name": "360°URBAN CAFE",
        "county": "Meru",
-       "image": "https://t3.ftcdn.net/jpg/02/10/97/64/240_F_210976498_KCetrPWe0Q0Q74DrM7SPuwCtOz8lE7cO.jpg",
+       "image": "https://images.unsplash.com/photo-1445019980597-93fa8acb246c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
        "type":"tapas,casual,comfort",
-       "rating": "5",
-       "city":"Barcelona",
+       "rating": "3.8",
+       "city":"Meru",
        "neighbourhood": "",
-       "address": "calle d arabau,23, 0811,Barcelona,spain",
+       "address": "PO Box 607, Meru, 30100, Kenya",
        "phone": "+254701895244",
-       "website": "Laflauta.com"
+       "website": "https://360urban-cafe.business.site/?utm_source=gmb&utm_medium=referral"
     }
 
   ]

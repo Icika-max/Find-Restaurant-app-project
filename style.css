@@ -134,3 +134,15 @@ body
 h2{
   color: rgb(0, 0, 0);
 }
+
+.search-restraunt{
+  display: flex;
+  flex-direction: column;
+  gap: .25rem;
+}
+input{
+  font-size: 1rem;
+}
+.hide{
+  display: none;
+}
