@@ -26,10 +26,11 @@ const fetchData=()=>
         container.innerHTML =data.map((restaurant)=>(
             `<div class="card-restaurant">
             <div class="card-restaurant-details"
+            
             <h2>${restaurant.name}</h2>
             </div>
-            <img src=${restaurant.image} alt="#"/>
 
+            <img src=${restaurant.image} alt="#"/>
             <div class="card-restaurant-details">
             <div class="country">
                 <p><span><<i class="fa fa-flag" aria-hidden="true"></i></span>county: ${restaurant.county}</p>

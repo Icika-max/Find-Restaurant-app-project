@@ -23,7 +23,7 @@
     flex-direction: column;
     text-align: center;
     margin: 20px 0;
-    background-color: rgb(43, 226, 180);
+    background-color: rgb(226, 131, 43);
   }
 
   img {
@@ -130,4 +130,7 @@ body
     padding: 0;
     background-color:#6abadeba;
     font-family: 'Arial';
+}
+h2{
+  color: rgb(0, 0, 0);
 }
