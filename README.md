@@ -25,6 +25,11 @@ Then, open the index.html file on your browser to run the application.
 
 Write your code in the src/index.js file. The base URL for your API will be http://localhost:3000.
 
+# View in the browser
+
+Use the following url to view in the browser
+https://icika-max.github.io/Find-Restaurant-app-project/
+
 # Contributing to Find-Restaurant-app-project
 
 To contribute to <Find-Restaurant-app-project>, follow these steps:
