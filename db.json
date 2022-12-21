@@ -25,7 +25,7 @@
       "rating": "4",
       "city":"Mexico city",
       "neighbourhood": "Roma",
-      "address": "calle tanala NO.133, Roma North 06700 Mexico",
+      "address": "calle tanala NO.133, 06700 Nairobi",
       "phone": "+25479302046",
       "website": "https://www.zengarden.co.ke/"
 
@@ -34,7 +34,7 @@
     {
       "id": 3,
       "name": "Habesha Restaurant",
-      "county": "Narobi",
+      "county": "Nairobi",
       "image": "https://t3.ftcdn.net/jpg/02/34/22/20/240_F_234222036_yBfsLGoAjbPES0VfjUKVWiB9cKpkwPBk.jpg",
       "type":"tapas,casual,comfort",
       "rating": "5",
@@ -50,13 +50,13 @@
    {
     "id": 4,
       "name": "Mawimbi Seafood Restaurant & Cafè",
-      "county": "embu",
+      "county": "Embu",
       "image": "https://t4.ftcdn.net/jpg/03/20/41/03/240_F_320410393_ysl4YA3j1MeO27cX4kogf0gInTa5rlhg.jpg",
       "type":"tapas,casual,comfort",
       "rating": "5",
       "city":"Barcelona",
       "neighbourhood": "",
-      "address": "Kijabe street, opposite Narfork",
+      "address": "P.o.Box 52214-00200, Embu, Kenya",
       "phone": "+254701895244",
       "website": "https://www.mawimbirestaurant.com/"
    },
@@ -67,17 +67,17 @@
       "image": "https://t4.ftcdn.net/jpg/03/66/34/13/240_F_366341397_klG0TiCkN40LuNjaUBDAlvhdiMZTbFCB.jpg",
       "type":"sea",
       "rating": "4",
-      "city":"MOMBASA",
+      "city":"Nakuru",
       "neighbourhood": "malindi",
-      "address": "456-1093",
-      "phone": "+254701895244",
+      "address": "P.O Box 456-1093",
+      "phone": "+254701895244 Nakuru",
       "website": "https://www.thefoodlibrary.co.ke/mercado/"
 
     },
     {
       "id": 6,
       "name": "Brew Bistro and Lounge",
-      "county": "Narobi",
+      "county": "Nairobi",
       "image": "https://t3.ftcdn.net/jpg/02/50/50/38/240_F_250503894_HNR2q0yK0eiBWWU6QkDvhzHBYq3sfZtn.jpghttps://t3.ftcdn.net/jpg/02/50/50/38/240_F_250503894_HNR2q0yK0eiBWWU6QkDvhzHBYq3sfZtn.jpg",
       "type":"sea",
       "rating": "4",
@@ -91,13 +91,13 @@
     {
      "id": 7,
        "name": "The Well Irish Pub & Restaurant",
-       "county": "Elderet",
+       "county": "Nairobi",
        "image": "https://t4.ftcdn.net/jpg/05/48/21/19/240_F_548211965_jCBY8HqNotmgwzd7Lr0GjX6E4Dc6ylWb.jpg",
        "type":"tapas,casual,comfort",
        "rating": "5",
-       "city":"Elderet",
+       "city":"Nairobi",
        "neighbourhood": "",
-       "address": "PO Box 207, Eldoret, 30100, Kenya",
+       "address": "PO Box 207, Nairobi, 30100, Kenya",
        "phone": "+254701895244",
        "website": "http://www.thewell.co.ke/"
     },
@@ -110,7 +110,7 @@
        "rating": "5",
        "city":"Barcelona",
        "neighbourhood": "",
-       "address": "PO Box 607, kisumu, 30100, Kenya",
+       "address": "PO Box 607, Kisumu, 30100, Kenya",
        "phone": "+254701895244",
        "website": "https://www.javahouseafrica.com/"
     },
@@ -121,7 +121,7 @@
        "image": "https://t3.ftcdn.net/jpg/00/75/08/98/240_F_75089860_VuEXmFVXwdssY3LsGJNKo68SQrcDsoYE.jpg",
        "type":"tapas,casual,comfort",
        "rating": "5",
-       "city":"Barcelona",
+       "city":"MOMBASA",
        "neighbourhood": "",
        "address": "PO Box 307, Lamu, 30100, Kenya",
        "phone": "+254701895244",
@@ -175,7 +175,7 @@
        "rating": "4.0",
        "city":"MOMBASA",
        "neighbourhood": "",
-       "address": "PO Box 607, Machakos, 30100, Kenya",
+       "address": "PO Box 607, Mombasa, 30100, Kenya",
        "phone": "+254701895244",
        "website": ""
     },
